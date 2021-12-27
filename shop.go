@@ -51,7 +51,6 @@ type Shop struct {
 	PrimaryLocationId               int64      `json:"primary_location_id"`
 	Timezone                        string     `json:"timezone"`
 	IanaTimezone                    string     `json:"iana_timezone"`
-	ForceSSL                        bool       `json:"force_ssl"`
 	TaxShipping                     bool       `json:"tax_shipping"`
 	TaxesIncluded                   bool       `json:"taxes_included"`
 	HasStorefront                   bool       `json:"has_storefront"`

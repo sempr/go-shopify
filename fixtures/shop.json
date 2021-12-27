@@ -45,7 +45,6 @@
     "has_storefront": true,
     "eligible_for_card_reader_giveaway": false,
     "setup_required": false,
-    "force_ssl": false,
     "pre_launch_enabled": false
   }
 }
