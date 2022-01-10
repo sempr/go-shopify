@@ -48,7 +48,6 @@ type Shop struct {
 	PlanDisplayName                 string     `json:"plan_display_name"`
 	PasswordEnabled                 bool       `json:"password_enabled"`
 	PrimaryLocale                   string     `json:"primary_locale"`
-	PrimaryLocationId               int64      `json:"primary_location_id"`
 	Timezone                        string     `json:"timezone"`
 	IanaTimezone                    string     `json:"iana_timezone"`
 	TaxShipping                     bool       `json:"tax_shipping"`
